@@ -16,7 +16,7 @@ This project implements the **Saga Pattern** within a single microservice to han
 ### Prerequisites
 - Python 3.10+
 - PostgreSQL installed and running
-- Virtual environment (optional but recommended)
+
 
 ### Setup
 1. Clone this repository:
